@@ -12,7 +12,6 @@ The purpose of this project was to use VBA to analyze stock data in Excel and re
 The original code to analyze stock data for 2017 and 2018 ran in 0.8398438 and 0.7753906 seconds, respectively. The refactored code to analyze stock data for 2017 and 2018 ran in 0.15625 and 0.2109375 seconds respectively. The refactored code ran faster for both analysis years, compared to original code. 
 <br>Below is the image of the message box displaying the run time for years 2017 after refactoring code. <br>
 ![2017_Refactored_RunTime](/Resources/VBA_Challenge_2017.png)
-
 <br>Below is the image of the message box displaying the run time for years 2018 after refactoring code. <br>
 ![2018_Refactored_RunTime](/Resources/VBA_Challenge_2018.png)
 
